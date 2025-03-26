@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjali Jagtap</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" alt="coding" width="400" src="![Image](https://github.com/user-attachments/assets/b105154b-3920-4e9d-8701-6e295089ba08)">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b105154b-3920-4e9d-8701-6e295089ba08">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjali-2222&label=Profile%20views&color=0e75b6&style=flat" alt="pranjali-2222" /> </p>
 
